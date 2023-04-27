@@ -698,6 +698,7 @@ public class Gui extends JPanel implements Runnable, MouseListener  {
      * @param y
      * @return
      */
+    
     public String preciseCoordinatesToNotationY(int y) {
     	if (0<=y && y<=74) { //8
     		return "8";
