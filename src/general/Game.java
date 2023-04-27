@@ -35,6 +35,7 @@ import player.Player;
 * 1. to be though about
 * 								
 */ 
+
 public class Game {
 	
 	private int whosTurn;

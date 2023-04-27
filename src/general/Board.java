@@ -28,7 +28,6 @@ public class Board {
 	private Piece[][] board = new Piece[8][8]; //to show game status in text based version
 	private ArrayList<Piece> pieces = new ArrayList<Piece>(32); //create 32 pieces, 16 for both players
 	
-	
 	/**
 	 * Constructor.
 	 */

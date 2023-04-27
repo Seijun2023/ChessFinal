@@ -24,6 +24,7 @@ import tools.Index;
 * 1. Delete text based version (HistoryOfMoves)
 * 								
 */ 
+
 public class Move {
 
 	//global variables
