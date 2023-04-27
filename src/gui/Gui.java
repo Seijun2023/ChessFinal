@@ -28,6 +28,7 @@ import tools.Index;
 * 2023-04-20	SA 		1.01	Deleted AI vs AI, AI vs human methods and classes 
 * 2023-04-23	SA 		1.01	Initializes humanVsHumanMode once the main method 
 *                               is called
+* 2023-04-20	SA 		1.01	Increase screen size to 600, 600 
 * ----------------------------------------------------------------------------------
 * Future Enhancements: 
 * -------------------- 	

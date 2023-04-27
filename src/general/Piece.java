@@ -16,7 +16,7 @@ package general;
 * ----------------------------------------------------------------------------------
 * Future Enhancements: 
 * -------------------- 	
-* 1. Delete text based version
+* 1. Delete text based version.
 * 								
 */ 
 public class Piece {
