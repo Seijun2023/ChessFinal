@@ -727,6 +727,7 @@ public class Gui extends JPanel implements Runnable, MouseListener  {
      * @param y
      * @return
      */
+    
     public String preciseCoordinatesToNotation(int x, int y) {
     	String s1 = preciseCoordinatesToNotationX(x);
     	String s2 = preciseCoordinatesToNotationY(y);
