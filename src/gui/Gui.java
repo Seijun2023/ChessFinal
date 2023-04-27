@@ -23,12 +23,13 @@ import tools.Index;
 * ----------------------------------------------------------------------------------
 * Date			Person	CSR#	Description
 * 2023-04-19	SA 		1.01	Initial Version 
-* 2023-04-20	SA 		1.01	Add comments to methods
-* 2023-04-20	SA 		1.01	Deleted unnecessary or not understood methods 
-* 2023-04-20	SA 		1.01	Deleted AI vs AI, AI vs human methods and classes 
-* 2023-04-23	SA 		1.01	Initializes humanVsHumanMode once the main method 
+* 2023-04-20	SA 		1.02	Add comments to methods
+* 2023-04-20	SA 		1.03	Deleted unnecessary or not understood methods 
+* 2023-04-20	SA 		1.04	Deleted AI vs AI, AI vs human methods and classes 
+* 2023-04-23	SA 		1.05	Initializes humanVsHumanMode once the main method 
 *                               is called
-* 2023-04-20	SA 		1.01	Increase screen size to 600, 600 
+* 2023-04-20	SA 		1.06	Increase screen size to 600, 600 
+* 2023-04-20	SA 		1.07	Change initial images to our own cat images 
 * ----------------------------------------------------------------------------------
 * Future Enhancements: 
 * -------------------- 	
