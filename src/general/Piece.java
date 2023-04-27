@@ -11,8 +11,8 @@ package general;
 * ----------------------------------------------------------------------------------
 * Date			Person	CSR#	Description
 * 2023-04-19	SA 		1.01	Initial Version 
-* 2023-04-21	SA 		1.01	Add comments to methods
-* 2023-04-22	SA 		1.01	Deleted unnecessary or not understood methods 
+* 2023-04-21	SA 		1.02	Add comments to methods
+* 2023-04-22	SA 		1.03	Deleted unnecessary or not understood methods 
 * ----------------------------------------------------------------------------------
 * Future Enhancements: 
 * -------------------- 	
