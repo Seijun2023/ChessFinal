@@ -29,7 +29,9 @@ import tools.Index;
 * 2023-04-23	SA 		1.05	Initializes humanVsHumanMode once the main method 
 *                               is called
 * 2023-04-20	SA 		1.06	Increase screen size to 600, 600 
-* 2023-04-20	SA 		1.07	Change initial images to our own cat images 
+* 2023-04-20	SA 		1.07	Change x and y values in preciseCoordinatesToNotationY
+*                               preciseCoordinatesToNotationX methods
+* 2023-04-20	SA 		1.08	Change initial images to our own cat images 
 * ----------------------------------------------------------------------------------
 * Future Enhancements: 
 * -------------------- 	
